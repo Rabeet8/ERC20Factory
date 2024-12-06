@@ -47,6 +47,11 @@
 - **MetaMask** wallet or any compatible Ethereum wallet installed.
 - Access to an Ethereum testnet (Sepolia).
 
+## **Populate your keys**
+PRIVATE_KEY= ""
+SEPOLIA_RPC_URL=""
+ETHERSCAN_API_KEY=""
+
 ### Installation
 1. Clone the repository:
    ```bash
