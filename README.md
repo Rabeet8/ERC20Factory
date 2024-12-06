@@ -33,7 +33,8 @@
   - Solidity 
   - Ethereum (Sepolia)  
   - Ethers.js  
-  - Wagmi  
+  - Wagmi 
+  - Hardhat 
 
 - **Notifications**:  
   - React Toastify  
